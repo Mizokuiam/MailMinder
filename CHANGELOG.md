@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-01-15
+
+- Create CHANGELOG.md (c7ad148 by Mizokuiam)
+
 ## 2025-01-14
 
 - Fix relative paths for GitHub Pages (668b729 by mizokuiam)
